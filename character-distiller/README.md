@@ -9,13 +9,13 @@
 Install using the [`skills`](https://github.com/vercel-labs/skills) CLI:
 
 ```bash
-npx skills@latest add amit-t/skills --skill character-distiller
+npx skills@latest add quiet-realist/skills --skill character-distiller
 ```
 
 Install all skills from this repository:
 
 ```bash
-npx skills@latest add amit-t/skills
+npx skills@latest add quiet-realist/skills
 ```
 
 ### Manual Installation
